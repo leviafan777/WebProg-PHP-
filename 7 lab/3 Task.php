@@ -1,4 +1,5 @@
 <?php
+
 function square_digits($num): int {
     $result = '';
     while ($num > 0) {
