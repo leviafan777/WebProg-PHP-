@@ -1,4 +1,5 @@
 <?php
+
 function expanded_form(int $n): string {
     $result = [];
     $str = (string)$n;
