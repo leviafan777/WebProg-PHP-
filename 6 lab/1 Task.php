@@ -1,4 +1,5 @@
 <?php
+
 function digital_root($number): int
 {
     while ($number >= 10) {
