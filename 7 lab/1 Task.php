@@ -1,3 +1,4 @@
+<?php
 function multiples(int $m, float $n): array {
   $array=[];
   for($i=0;$i<$m;$i++){
